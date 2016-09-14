@@ -107,6 +107,7 @@ public class ChallengeData {
 
     public static ChallengeData getRecord(DataDAO dao, Long uid) {
         ChallengeData data = dao.getRecords(uid);
+        System.out.println("this is test");
         return data;
     }
 
