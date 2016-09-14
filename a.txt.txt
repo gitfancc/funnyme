@@ -1,0 +1,7 @@
+ json格式数据
+ "values": {
+    "steps": 0,
+    "distance": 0,
+    "calories": 0,
+    "seepDuration": 0
+  }
