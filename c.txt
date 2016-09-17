@@ -1,2 +1,4 @@
 this is c.txt
-i can test branch function
+i can test branch functio
+this is what i want i really make the thing
+n

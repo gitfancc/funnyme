@@ -4,4 +4,14 @@ chen json  pretty format
     "distance": 0,
     "calories": 0,
     "seepDuration": 0
+  
+  }
+  "taste":[
+  1,
+  2,3,4,5
+  ]
+
+  fruit:{
+  "chen":"xiao",
+  "dong":"liang"
   }
